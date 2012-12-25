@@ -9,7 +9,7 @@
 
 From your local system (from the passenger-stack directory), run:
 
-    sprinkle -c -s config/install.rb
+    sprinkle -c -s install.rb
 
 After you've waited for everything to run, you should have a provisioned slice.
 Go forth and install your custom configurations, add vhosts and other VPS paraphernalia.
